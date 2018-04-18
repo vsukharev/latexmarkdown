@@ -5,6 +5,7 @@ sandbox
 =======
 
 Dummy project to test various aspects of github and integrations with it.
+Based on [some approach found by google search](https://github.com/cben/sandbox)
 
 Testing [abuse of relative links to link to issues](http://stackoverflow.com/a/20829706/239657): [#1](/../../issues/1).
 
