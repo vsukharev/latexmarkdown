@@ -11,7 +11,6 @@ Testing [abuse of relative links to link to issues](http://stackoverflow.com/a/2
 ## markdown
 
 README processed by Jekyll into https://cben.github.io/sandbox/README
-
 MathJax loaded in output via Jekyll template `_layouts/default.html`.
 
 Delimiters [recognized by kramdown](http://kramdown.gettalong.org/syntax.html#math-blocks):
